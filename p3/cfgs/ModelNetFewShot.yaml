@@ -1,0 +1,9 @@
+NAME: ModelNetFewShot
+DATA_PATH: /home/ubuntu/p3/data/ModelNetFewshot
+N_POINTS: 8192
+NUM_CATEGORY: 40
+USE_NORMALS: False
+way: 10
+shot: 10
+fold: 2
+#0 1 5 6 7
