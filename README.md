@@ -1,1 +1,1 @@
-# Adapt PointFormer: 3D Point Cloud Analysis via Adapting 2D Visual Transformers
+# Adapt PointFormer: 3D Point Cloud Analysis via Adapting 2D Visual Transformers (ECAI2024)
